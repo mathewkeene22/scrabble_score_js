@@ -4,12 +4,19 @@ Scrabble Score
 by Mathew Keene & Marc Lee
 
 The Scrabble Score app uses JavaScript and jQuery to assign a numeric value to a word. The app follows the basic rules of the game scrabble where:
+
 1 POINT: A, E, I, O, U, L, N, R, S, T
+
 2 POINTS:  D, G
+
 3 POINTS:  B, C, M, P
+
 4 POINTS:  F, H, V, W, Y
+
 5 POINTS:  K
+
 8 POINTS:  J, X
+
 10 POINTS: Q, Z
 
 
